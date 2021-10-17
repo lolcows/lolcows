@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello, I'm lolcat</b>.
-    <br>I'm learning multiple languages and I make projects that I find interesting.<br>
+    <br>I'm learning multiple languages, and I make projects that I find interesting.<br>
 
 </samp>
 
