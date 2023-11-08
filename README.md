@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer, currently learning web design and other sorts of things I find fascinating.
+I'm a developer, currently learning web design/development, memory editing, deobfuscation, reverse engineering and other sorts of things I find fascinating.
 
 
 # 💻 Tech Stack:
