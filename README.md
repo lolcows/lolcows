@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer, currently learning web design/development, memory editing, deobfuscation, reverse engineering and other sorts of things I find fascinating.
+Experience in memory manipulation, deobfuscation, and reverse engineering. Designing/Development with automation and integration solutions.
 
 
 # 💻 Tech Stack:
